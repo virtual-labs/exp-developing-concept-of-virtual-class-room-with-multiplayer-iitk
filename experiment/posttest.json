@@ -2,15 +2,32 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the primary purpose of the VR classroom?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Entertainment",
+        "b": "Interactive learning",
+        "c": "Social networking",
+        "d": "Video streaming"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1 ",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which device is commonly used to interact in a VR classroom?",
+      "answers": {
+        "a": "VR controller",
+        "b": "Television remote",
+        "c": "Printer",
+        "d": "Projector"
+      },
+      "explanations": {
+        "a": "Explanation 1",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -18,21 +35,141 @@
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
-    {
-      "question": "This is a Sample Question 2?",
+     {
+      "question": "In the VR classroom, questions can be presented in which formats?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Only text-based questions",
+        "b": "Text, images, and interactive elements",
+        "c": "Only videos",
+        "d": "Audio only"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1 ",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    v
+     {
+      "question": "How are participant responses collected in the VR lab?",
+      "answers": {
+        "a": "By the instructor verbally",
+        "b": "Using the VR system",
+        "c": "Through written sheets",
+        "d": "Through phone calls"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "When can participants see correct answers in the VR classroom?",
+      "answers": {
+        "a": "Never",
+        "b": "Only at the end of the session",
+        "c": "Immediately after each question",
+        "d": "During breaks only"
+      },
+      "explanations": {
+        "a": "Explanation 1 ",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "What can the instructor do with performance data?",
+      "answers": {
+        "a": "Provide feedback",
+        "b": "Post on social media",
+        "c": "Delete all records",
+        "d": "Ignore the results"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Which of these is NOT an advantage of the VR classroom?",
+      "answers": {
+        "a": "Real-time feedback",
+        "b": "Increased engagement",
+        "c": "Physical hardware maintenance",
+        "d": "Interactive assessments"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "What feature helps participants learn from their mistakes?",
+      "answers": {
+        "a": "Internet browsing",
+        "b": "Viewing correct answers and explanations",
+        "c": "Watching unrelated videos",
+        "d": "Skipping the quiz"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "The VR classroom increases:",
+      "answers": {
+        "a": "Passive listening",
+        "b": "Active participation",
+        "c": "Physical activity only",
+        "d": "Manual grading work"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Which component is essential for experiencing the VR lab?",
+      "answers": {
+        "a": "VR headset",
+        "b": "Telephone",
+        "c": "Printer",
+        "d": "Paper"
+      },
+      "explanations": {
+        "a": "Explanation 1 ",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
