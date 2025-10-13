@@ -2,8 +2,7 @@
 virtual reality. ACM SIGGRAPH ASIA 2008 educators programme, 1-8.<br>
 
 2. Allcoat, D., & von Mühlenen, A. (2018). Learning in virtual reality: Effects
-on performance, emotion and engagement. Research in Learning Technology,
-26.<br>
+on performance, emotion and engagement. Research in Learning Technology,26.<br>
 
 3. Abulrub, A. G., Attridge, A., & Williams, M. A. (2011). Virtual reality in
 engineering education: The future of creative learning. 2011 3rd International
