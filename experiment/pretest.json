@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The main goal of a smart classroom is to:",
+      "question": "1. The main goal of a smart classroom is to:",
       "answers": {
         "a": "Reduce teacher involvement",
         "b": "Enhance interactive and engaging learning",
@@ -10,16 +10,16 @@
         "d": "Eliminate the need for assessments"
       },
       "explanations": {
-        "a": "Explanation 1 ",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "The main goal of a smart classroom is to make learning more interactive, engaging, and effective. ",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "In a smart classroom, multiple systems are used to:",
+      "question": "2. In a smart classroom, multiple systems are used to:",
       "answers": {
         "a": "Display and present learning activities",
         "b": "Generate electrical signals",
@@ -27,16 +27,16 @@
         "d": "Play background music"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Smart classrooms use multiple systems to show lessons, videos, and interactive content. 1",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
        {
-      "question": " Real-time feedback in a smart classroom means:",
+      "question": "3. Real-time feedback in a smart classroom means:",
       "answers": {
         "a": "Getting results after the course ends",
         "b": "Receiving instant evaluation of responses",
@@ -44,16 +44,16 @@
         "d": "Waiting for manual grading"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Real-time feedback allows students to get immediate responses to their answers.",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
        {
-      "question": "Which of the following devices can be used to answer questions in a virtual classroom?",
+      "question": "4. Which of the following devices can be used to answer questions in a virtual classroom?",
       "answers": {
         "a": "Keyboard",
         "b": "VR controller",
@@ -61,16 +61,16 @@
         "d": "Touchscreen device"
       },
       "explanations": {
-        "a": "Explanation 1 ",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "In a virtual classroom, devices like VR controllers let students interact and answer questions",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
        {
-      "question": "The smart classroom setup allows participants to:",
+      "question": "5. The smart classroom setup allows participants to:",
       "answers": {
         "a": "Interact with digital content",
         "b": "Perform group activities",
@@ -78,16 +78,16 @@
         "d": "View only static text"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Smart classrooms enable participants to actively engage with simulations, quizzes, and multimedia content.",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
        {
-      "question": "One major advantage of a virtual smart classroom over a traditional classroom is:",
+      "question": "6. One major advantage of a virtual smart classroom over a traditional classroom is:",
       "answers": {
         "a": "It can provide learning without location restrictions",
         "b": "It is less engaging",
@@ -95,16 +95,16 @@
         "d": "It removes collaboration"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Virtual smart classrooms allow students to learn from anywhere, removing geographic limitations.",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
        {
-      "question": "Which skill is least likely to be developed in a smart classroom?",
+      "question": "7. Which skill is least likely to be developed in a smart classroom?",
       "answers": {
         "a": "Problem-solving",
         "b": "Team collaboration",
@@ -112,16 +112,16 @@
         "d": "Physical strength"
       },
       "explanations": {
-        "a": "Explanation 1 ",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Smart classrooms focus on cognitive and digital skills, not physical strength. "
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
        {
-      "question": "In a smart classroom, interactive questions are mainly used to:",
+      "question": "8. In a smart classroom, interactive questions are mainly used to:",
       "answers": {
         "a": "Test student understanding",
         "b": "Distract student",
@@ -129,16 +129,16 @@
         "d": "Replace teaching"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Interactive questions help assess learning and comprehension instantly. ",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
        {
-      "question": " Which component is essential for displaying content in a smart classroom?",
+      "question": "9. Which component is essential for displaying content in a smart classroom?",
       "answers": {
         "a": "Projector or large display",
         "b": "Whiteboard eraser",
@@ -146,16 +146,16 @@
         "d": "File cabinet"
       },
       "explanations": {
-        "a": "Explanation 1 ",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "A projector or large display is essential to show content clearly to all students. ",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
        {
-      "question": "A key benefit of gamified question answering in a smart classroom is:",
+      "question": "10. A key benefit of gamified question answering in a smart classroom is:",
       "answers": {
         "a": "Increased boredom",
         "b": "Higher engagement and motivation",
@@ -163,10 +163,10 @@
         "d": "Longer class duration"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Gamified questions make learning fun, interactive, and motivating. ",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
